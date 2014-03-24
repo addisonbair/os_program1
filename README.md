@@ -12,9 +12,8 @@ This command should return something similar to:
     1234: R utime=150 [myprog -x -y file1 myoption] 
 
 
-Most of the ideas presented so far are researched from this page:
-  
-    http://pages.cs.wisc.edu/~bart/537/programs/program1.html
+Most of the ideas presented so far are researched from this page: 
+http://pages.cs.wisc.edu/~bart/537/programs/program1.html
 
 
 What we have so far:
